@@ -1,0 +1,4 @@
+1.Open up terminal and type following command to install python3
+    sudo apt-get install python3
+2.Type following command in the terminal to use the interactive python shell
+    python3
